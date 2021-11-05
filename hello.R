@@ -1,4 +1,4 @@
 print("hello")
 print("h")
 
-y = 2
+x = 1
